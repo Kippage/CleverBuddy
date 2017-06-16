@@ -1,4 +1,4 @@
-# Kippage Copyright # DO NOT COPY # # # #
+# Kippage Copyright # DO NOT COPY #
 # Python 3.6.1 #
 
 # module checking
